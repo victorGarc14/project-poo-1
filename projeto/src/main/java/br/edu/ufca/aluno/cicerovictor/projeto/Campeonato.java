@@ -13,7 +13,7 @@ import java.util.*;
 import java.util.List;
 
 public class Campeonato {
-    private Clube[] clubes;
+    public Clube[] clubes;
 
     public Campeonato(Clube[] clubes) {
         this.clubes = clubes;
